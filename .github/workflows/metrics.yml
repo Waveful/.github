@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@3.14.0
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -31,4 +31,4 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_threshold: 1%
           repositories_forks: no
-          repositories_affiliations: owner, collaborator
+          repositories_affiliations: owner, collaborator, organization_member
