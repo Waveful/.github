@@ -1,5 +1,7 @@
 ## Hello World! 👋
-I'm Waveful, the creator-friendly social network 🌊
+I'm Waveful, the creator-friendly social network where everyone can become a creator 🌊
+
+At Waveful we have the vision of a more decentralized and democratic future for social media, and we are building the infrastructure to make that happen.
 
 
 ### Our codebase
