@@ -1,2 +1,2 @@
 # .github
-Waveful Organization's profile README
+Waveful's GitHub profile README
