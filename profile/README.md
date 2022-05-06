@@ -7,6 +7,6 @@ At Waveful we have the vision of a more decentralized and democratic future for 
 ### Our codebase
 
 - 📱 Our [mobile app](https://waveful.app/download) is currently developed with Flutter
-- 🖥 Our [website](https://waveful.app) is currently developed with Flutter
+- 🖥 Our [website](https://waveful.app) is mainly developed with Flutter
 - 🔚 Our backend is mainly developed with Node.js
 - 🛠 Our tools are mainly developed with Python
